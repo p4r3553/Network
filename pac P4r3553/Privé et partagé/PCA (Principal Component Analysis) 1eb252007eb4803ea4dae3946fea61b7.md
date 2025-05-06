@@ -1,4 +1,4 @@
-# PCA (Principal Component Analysis)
+# PCA (Plan de Continuité d’Activité)
 
 | Appareil | Interface | Adresse IP | Masque | Passerelle |
 | --- | --- | --- | --- | --- |
